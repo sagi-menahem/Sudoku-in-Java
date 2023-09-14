@@ -2,6 +2,8 @@
 
 This project is a Java implementation of a Sudoku game, consisting of two main classes: `Sudoku` and `Square3x3`.
 
+The full assignment (in Hebrew) is in the "Task 3" file.
+
 ## Square3x3 Class
 
 The `Square3x3` class represents a 3x3 square within the Sudoku board. It provides the following constructors and methods:
