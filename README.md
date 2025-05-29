@@ -2,7 +2,7 @@
 
 This project is a Java implementation of a Sudoku game, consisting of two main classes: `Sudoku` and `Square3x3`.
 
-The full assignment (in Hebrew) is in the "Task 3" file.
+The full assignment (in Hebrew) is in the [Task 3.pdf](Task%203.pdf) file.
 
 ## Table of Contents
 
@@ -63,4 +63,4 @@ Good luck with your Sudoku Java project!
 
 ## Author
 
-Sagi Menahem
+Sagi Menahem.
